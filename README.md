@@ -1,10 +1,11 @@
 # Web Page 07
 <h3>visit: https://aokmen.github.io/Web_Page_07</h3>
 <img alt="alt_text" src="./assets/gif.gif"/>
-# Description:
 ---
-* This code is an HTML document that represents a web page structure. Here's a breakdown of what each section does:
+# Description:
 
+## This code is an HTML document that represents a web page structure. Here's a breakdown of what each section does:
+---
 * The nav element represents the navigation section of the webpage. It contains a logo and a menu with links to different pages (HOME, ABOUT, SERVICES).
 * The main element contains the main content of the webpage. It consists of a heading ("Professional Web Design") and a paragraph of text.
 * The section class="section-email" represents a section for users to subscribe to a newsletter. It contains a heading and a form with an input field and a subscribe button.
