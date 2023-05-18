@@ -1,7 +1,7 @@
 # Web Page 07
 <h3>visit: https://aokmen.github.io/Web_Page_07</h3>
 <img alt="alt_text" src="./assets/gif.gif"/>
-# Description:
+## Description:
 
 ## This code is an HTML document that represents a web page structure. Here's a breakdown of what each section does:
 ---
